@@ -1,2 +1,2 @@
 "STEAM_0:1:12345678": "test"
-"STEAM_0:1:836865584": "dolboeb randomni"
+"STEAM_0:0:384406331": "dolboeb randomni"
